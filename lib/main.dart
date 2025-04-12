@@ -2,7 +2,7 @@ import 'package:animated_routes/core/color_pallet/app_colors.dart';
 import 'package:animated_routes/pages/details_page.dart';
 import 'package:animated_routes/pages/profile_page.dart';
 import 'package:animated_routes/pages/settings_page.dart';
-import 'package:animated_routes/slide_transition_on_route.dart';
+import 'package:animated_routes/routes/navigator_extenstion.dart';
 import 'package:flutter/material.dart';
 
 void main() {
